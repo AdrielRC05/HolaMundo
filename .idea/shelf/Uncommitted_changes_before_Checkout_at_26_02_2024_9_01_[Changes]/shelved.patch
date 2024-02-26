@@ -1,0 +1,68 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"abc85b3f-548a-40e1-8db6-8451d17af174\" name=\"Changes\" comment=\"Se integró la clase Mensaje\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/com_acme/Persona.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com_acme/HolaMundo.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com_acme/HolaMundo.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com_acme/Mensaje.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com_acme/Mensaje.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2cfoMnNJ4fKPtK2SrcCWQbvszjp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/adriel/IdeaProjects/HolaMundo&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"abc85b3f-548a-40e1-8db6-8451d17af174\" name=\"Changes\" comment=\"\" />\r\n      <created>1708511949757</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1708511949757</updated>\r\n      <workItem from=\"1708511950978\" duration=\"423000\" />\r\n      <workItem from=\"1708512401144\" duration=\"2132000\" />\r\n      <workItem from=\"1708932843895\" duration=\"818000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Proyecto inicial\">\r\n      <created>1708512453172</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708512453172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Proyecto inicial\">\r\n      <created>1708512710947</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708512710947</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Proyecto inicial\">\r\n      <created>1708512861793</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708512861793</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Proyecto inicial\">\r\n      <created>1708513495661</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708513495661</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Se integró la clase Mensaje\">\r\n      <created>1708513566247</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708513566247</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"dev\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Se agregó la clase Hola Mundo\" />\r\n    <MESSAGE value=\"Se integró la clase Mensaje\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Se integró la clase Mensaje\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,12 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="abc85b3f-548a-40e1-8db6-8451d17af174" name="Changes" comment="Se integró la clase Mensaje">
+-      <change afterPath="$PROJECT_DIR$/src/com_acme/Persona.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com_acme/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com_acme/HolaMundo.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com_acme/Mensaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com_acme/Mensaje.java" afterDir="false" />
+-    </list>
++    <list default="true" id="abc85b3f-548a-40e1-8db6-8451d17af174" name="Changes" comment="Se integró la clase Persona" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -54,7 +49,7 @@
+       <updated>1708511949757</updated>
+       <workItem from="1708511950978" duration="423000" />
+       <workItem from="1708512401144" duration="2132000" />
+-      <workItem from="1708932843895" duration="818000" />
++      <workItem from="1708932843895" duration="1219000" />
+     </task>
+     <task id="LOCAL-00001" summary="Proyecto inicial">
+       <created>1708512453172</created>
+@@ -91,7 +86,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1708513566247</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="Se integró la clase Persona">
++      <created>1708933730064</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1708933730064</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -113,7 +115,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="dev" />
++                        <option value="master" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -128,6 +130,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Se agregó la clase Hola Mundo" />
+     <MESSAGE value="Se integró la clase Mensaje" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Se integró la clase Mensaje" />
++    <MESSAGE value="Se integró la clase Persona" />
++    <option name="LAST_COMMIT_MESSAGE" value="Se integró la clase Persona" />
+   </component>
+ </project>
+\ No newline at end of file
